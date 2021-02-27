@@ -1,0 +1,1 @@
+This is code I made for a summer project, it is unfinished but when completed it'll take log file data and place it into an SQL database for later processing.
